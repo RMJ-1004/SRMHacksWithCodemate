@@ -1,0 +1,12 @@
+{
+  "xp": 295,
+  "level": 6,
+  "missions": {},
+  "completed": [
+    {
+      "command": "mem",
+      "goal": 3,
+      "progress": 3
+    }
+  ]
+}
